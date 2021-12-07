@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mearn/static/css/main.cb5d54ee.chunk.css",
+    "main.js": "/mearn/static/js/main.bc91b760.chunk.js",
+    "main.js.map": "/mearn/static/js/main.bc91b760.chunk.js.map",
+    "runtime-main.js": "/mearn/static/js/runtime-main.e878f9b3.js",
+    "runtime-main.js.map": "/mearn/static/js/runtime-main.e878f9b3.js.map",
+    "static/css/2.4be38407.chunk.css": "/mearn/static/css/2.4be38407.chunk.css",
+    "static/js/2.8bcaa7a1.chunk.js": "/mearn/static/js/2.8bcaa7a1.chunk.js",
+    "static/js/2.8bcaa7a1.chunk.js.map": "/mearn/static/js/2.8bcaa7a1.chunk.js.map",
+    "static/js/3.369d0588.chunk.js": "/mearn/static/js/3.369d0588.chunk.js",
+    "static/js/3.369d0588.chunk.js.map": "/mearn/static/js/3.369d0588.chunk.js.map",
+    "index.html": "/mearn/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/mearn/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.cb5d54ee.chunk.css.map": "/mearn/static/css/main.cb5d54ee.chunk.css.map",
+    "static/js/2.8bcaa7a1.chunk.js.LICENSE.txt": "/mearn/static/js/2.8bcaa7a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e878f9b3.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.8bcaa7a1.chunk.js",
+    "static/css/main.cb5d54ee.chunk.css",
+    "static/js/main.bc91b760.chunk.js"
+  ]
+}
